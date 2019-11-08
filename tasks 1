@@ -40,3 +40,11 @@ print(max(x, y))
 mylist = ('a', 'b', 'c', 'd', 'e', 'f', 'g')
 x = len(mylist)
 print (x)
+
+x = 9
+y = 3
+print (divmod (x, y)) # 1egz.
+
+z = 7
+s = 3
+print (divmod (z, s)) # 2egz.
