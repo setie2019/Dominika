@@ -27,3 +27,7 @@ import multiply
 x = [1, 2, 3, 4]
 y = [2, 3, 4, 5]
 multiply (x + y)
+
+x = 2
+y = 2
+print (pow (x, y))
