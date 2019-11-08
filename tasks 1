@@ -1,0 +1,29 @@
+print ('Helllo, World!') # 1
+
+print ('Hello again') # My second line of Hello World code
+
+print ("Hello") # Dlaczego tu podwójny cudzysłów?
+pass
+print ("world")
+
+name = ('Joanna') # 2.1
+print ("Hello " + name) 
+
+name1 = ('Ania')
+name2 = ('Kasia')
+name3 = ('Janek')
+print ("Hello " + name1 + name2 + name3)
+
+name = (' ')
+print ('Hello' + name) 
+    if name = (' ')
+print ('Hello World!') # nie działa :-(
+
+name = ('Joanna')
+print_hello(name) = ('Hello' + name)
+print (print_hello(name)) # :-(
+
+import multiply
+x = [1, 2, 3, 4]
+y = [2, 3, 4, 5]
+multiply (x + y)
