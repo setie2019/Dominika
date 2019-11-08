@@ -23,7 +23,7 @@ name = ('Joanna')
 print_hello(name) = ('Hello' + name)
 print (print_hello(name)) # :-(
 
-import multiply
+import multiply # :-(
 x = [1, 2, 3, 4]
 y = [2, 3, 4, 5]
 multiply (x + y)
@@ -31,3 +31,12 @@ multiply (x + y)
 x = 2
 y = 2
 print (pow (x, y))
+
+y = 4
+x = 8
+print(min(x, y))
+print(max(x, y))
+
+mylist = ('a', 'b', 'c', 'd', 'e', 'f', 'g')
+x = len(mylist)
+print (x)
